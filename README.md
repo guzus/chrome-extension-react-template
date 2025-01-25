@@ -2,7 +2,6 @@
 
 This is a template for creating a Chrome extension using React and [Vite](https://vitejs.dev/) with TypeScript.
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -13,34 +12,34 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18+ or 20+) installed
 
 1. Clone or fork the repository :
 
-    ```sh
-    # To clone
-    git clone https://github.com/5tigerjelly/chrome-extension-react-template
-    cd chrome-extension-react-template
-    ```
+   ```sh
+   # To clone
+   git clone https://github.com/5tigerjelly/chrome-extension-react-template
+   cd chrome-extension-react-template
+   ```
 
 2. Install the dependencies:
 
-    ```sh
-    npm install
-    ```
+   ```sh
+   pnpm install
+   ```
 
 ## 🏗️ Development
 
 To start the development server:
 
 ```sh
-npm run dev
+pnpm run dev
 ```
 
 This will start the Vite development server and open your default browser.
 
-## 📦 Build 
+## 📦 Build
 
 To create a production build:
 
 ```sh
-npm run build
+pnpm run build
 ```
 
 This will generate the build files in the `build` directory.
